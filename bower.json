@@ -1,0 +1,8 @@
+{
+  "name": "d3-demo",
+  "private": true,
+  "dependencies": {
+    "d3": "~3.5.5",
+    "lodash": "~3.3.0"
+  }
+}
